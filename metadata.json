@@ -1,0 +1,7 @@
+{
+  "name": "FizikaLab - Interaktiv Fizika Ta'lim Portali",
+  "description": "FizikaLab - Zamonaviy fizika ta'lim platformasi: formulalar, kalkulyatorlar, virtual laboratoriya, interaktiv grafiklar, testlar va AI repetitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
